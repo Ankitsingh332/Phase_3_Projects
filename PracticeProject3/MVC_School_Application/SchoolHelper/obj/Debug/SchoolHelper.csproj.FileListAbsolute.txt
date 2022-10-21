@@ -1,0 +1,11 @@
+D:\Mphasis\Practice Project\phase_3_Project\MVC_Application_curd\MVCApplication\SchoolHelper\bin\Debug\SchoolHelper.dll
+D:\Mphasis\Practice Project\phase_3_Project\MVC_Application_curd\MVCApplication\SchoolHelper\bin\Debug\SchoolHelper.pdb
+D:\Mphasis\Practice Project\phase_3_Project\MVC_Application_curd\MVCApplication\SchoolHelper\obj\Debug\SchoolHelper.csproj.AssemblyReference.cache
+D:\Mphasis\Practice Project\phase_3_Project\MVC_Application_curd\MVCApplication\SchoolHelper\obj\Debug\SchoolHelper.csproj.CoreCompileInputs.cache
+D:\Mphasis\Practice Project\phase_3_Project\MVC_Application_curd\MVCApplication\SchoolHelper\obj\Debug\SchoolHelper.dll
+D:\Mphasis\Practice Project\phase_3_Project\MVC_Application_curd\MVCApplication\SchoolHelper\obj\Debug\SchoolHelper.pdb
+D:\Mphasis\Practice Project\phase_3_Project\MVC_Application_curd\MVCApplication\SchoolHelper\bin\Debug\SchoolBAl.dll
+D:\Mphasis\Practice Project\phase_3_Project\MVC_Application_curd\MVCApplication\SchoolHelper\bin\Debug\SchoolDAL.dll
+D:\Mphasis\Practice Project\phase_3_Project\MVC_Application_curd\MVCApplication\SchoolHelper\bin\Debug\SchoolBAl.pdb
+D:\Mphasis\Practice Project\phase_3_Project\MVC_Application_curd\MVCApplication\SchoolHelper\bin\Debug\SchoolDAL.pdb
+D:\Mphasis\Practice Project\phase_3_Project\MVC_Application_curd\MVCApplication\SchoolHelper\obj\Debug\SchoolHelper.csproj.CopyComplete

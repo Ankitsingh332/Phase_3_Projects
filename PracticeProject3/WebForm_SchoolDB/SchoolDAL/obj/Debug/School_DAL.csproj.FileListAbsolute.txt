@@ -1,0 +1,10 @@
+D:\Mphasis\Practice Project\phase_3_Project\MVC_Application_curd\MVCApplication\SchoolDAL\bin\Debug\SchoolDAL.dll.config
+D:\Mphasis\Practice Project\phase_3_Project\MVC_Application_curd\MVCApplication\SchoolDAL\bin\Debug\SchoolDAL.dll
+D:\Mphasis\Practice Project\phase_3_Project\MVC_Application_curd\MVCApplication\SchoolDAL\bin\Debug\SchoolDAL.pdb
+D:\Mphasis\Practice Project\phase_3_Project\MVC_Application_curd\MVCApplication\SchoolDAL\bin\Debug\SchoolBAl.dll
+D:\Mphasis\Practice Project\phase_3_Project\MVC_Application_curd\MVCApplication\SchoolDAL\bin\Debug\SchoolBAl.pdb
+D:\Mphasis\Practice Project\phase_3_Project\MVC_Application_curd\MVCApplication\SchoolDAL\obj\Debug\School_DAL.csproj.AssemblyReference.cache
+D:\Mphasis\Practice Project\phase_3_Project\MVC_Application_curd\MVCApplication\SchoolDAL\obj\Debug\School_DAL.csproj.CoreCompileInputs.cache
+D:\Mphasis\Practice Project\phase_3_Project\MVC_Application_curd\MVCApplication\SchoolDAL\obj\Debug\School_DAL.csproj.CopyComplete
+D:\Mphasis\Practice Project\phase_3_Project\MVC_Application_curd\MVCApplication\SchoolDAL\obj\Debug\SchoolDAL.dll
+D:\Mphasis\Practice Project\phase_3_Project\MVC_Application_curd\MVCApplication\SchoolDAL\obj\Debug\SchoolDAL.pdb

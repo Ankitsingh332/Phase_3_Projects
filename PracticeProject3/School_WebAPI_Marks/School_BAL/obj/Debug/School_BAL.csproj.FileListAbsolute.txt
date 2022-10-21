@@ -1,0 +1,6 @@
+D:\Mphasis\Practice Project\phase_3_Project\WebApi_Curd_operation\WebApi_School_Project\School_BAL\bin\Debug\School_BAL.dll
+D:\Mphasis\Practice Project\phase_3_Project\WebApi_Curd_operation\WebApi_School_Project\School_BAL\bin\Debug\School_BAL.pdb
+D:\Mphasis\Practice Project\phase_3_Project\WebApi_Curd_operation\WebApi_School_Project\School_BAL\obj\Debug\School_BAL.csproj.AssemblyReference.cache
+D:\Mphasis\Practice Project\phase_3_Project\WebApi_Curd_operation\WebApi_School_Project\School_BAL\obj\Debug\School_BAL.csproj.CoreCompileInputs.cache
+D:\Mphasis\Practice Project\phase_3_Project\WebApi_Curd_operation\WebApi_School_Project\School_BAL\obj\Debug\School_BAL.dll
+D:\Mphasis\Practice Project\phase_3_Project\WebApi_Curd_operation\WebApi_School_Project\School_BAL\obj\Debug\School_BAL.pdb

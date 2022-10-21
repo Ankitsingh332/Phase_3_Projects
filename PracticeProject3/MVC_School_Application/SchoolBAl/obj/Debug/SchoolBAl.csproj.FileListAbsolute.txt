@@ -1,0 +1,6 @@
+D:\Mphasis\Practice Project\phase_3_Project\MVC_Application_curd\MVCApplication\SchoolBAl\bin\Debug\SchoolBAl.dll
+D:\Mphasis\Practice Project\phase_3_Project\MVC_Application_curd\MVCApplication\SchoolBAl\bin\Debug\SchoolBAl.pdb
+D:\Mphasis\Practice Project\phase_3_Project\MVC_Application_curd\MVCApplication\SchoolBAl\obj\Debug\SchoolBAl.csproj.AssemblyReference.cache
+D:\Mphasis\Practice Project\phase_3_Project\MVC_Application_curd\MVCApplication\SchoolBAl\obj\Debug\SchoolBAl.csproj.CoreCompileInputs.cache
+D:\Mphasis\Practice Project\phase_3_Project\MVC_Application_curd\MVCApplication\SchoolBAl\obj\Debug\SchoolBAl.dll
+D:\Mphasis\Practice Project\phase_3_Project\MVC_Application_curd\MVCApplication\SchoolBAl\obj\Debug\SchoolBAl.pdb
